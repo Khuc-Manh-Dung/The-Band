@@ -1,0 +1,9 @@
+- Phân tích website
+
+	Header(Đầu trang)
+	Content(Nội dung chính)
+	Navigation(Điều hướng)
+	Breadcrumb(Xác định vị trí trong web ví dụ Html, css -> FLex box)
+	Slidebar(Bảng menu bên trái hoặc phải)
+	Slider(Nội dung hoặc hình ảnh dạng trượt)
+	Footer(Cuối trang)
